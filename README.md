@@ -17,3 +17,4 @@ __Жирный__
     Здесь может быть
     Ваша реклама
 ```
+![image](https://github.com/ruslanproooo/Kolcov-Ruslan-Algoritm/assets/144116019/aef000c2-7ce1-4570-8a25-c9956ab127de)
