@@ -5,6 +5,7 @@ https://docs.google.com/document/d/1tpnr14fljEOiSZD9T3Nu0sOa62sXXLaiJwlDRaGSCp8/
 https://docs.google.com/presentation/d/1JL98ZpXA96Ypz5ieKE5Zpoy_AGCI0mllz_RMFOVCvIo/edit?usp=drivesdk - Не моя презентация 
 file:///C:/Users/Администратор/Desktop/рк/index.html
 wordpress - http://localhost/wordpress/
+Практика - https://drive.google.com/drive/folders/1FSfEj8ez22yTjOjTPjYFrQvvjbbvbziH
 ____
 ## Заголовок 
 ~~Зачеркнутый текст~~
