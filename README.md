@@ -25,4 +25,5 @@ __Жирный__
 ![image](https://github.com/ruslanproooo/Kolcov-Ruslan-Algoritm/assets/144116019/114c2fa1-f6b8-4031-9b56-8794f01405f4)
 ![image](https://github.com/ruslanproooo/Kolcov-Ruslan-Algoritm/assets/144116019/878c274f-ece4-47ec-b2b2-824637e8aa66)
 ![image](https://github.com/ruslanproooo/Kolcov-Ruslan-Algoritm/assets/144116019/a2c0d357-893c-486e-ac3d-2b6813d10373)
+![image](https://github.com/ruslanproooo/Kolcov-Ruslan-Algoritm/assets/144116019/c73f240f-3c78-4547-9e36-17608d4d3d89)
 
