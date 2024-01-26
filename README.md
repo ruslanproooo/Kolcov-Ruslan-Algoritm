@@ -6,6 +6,7 @@ https://docs.google.com/presentation/d/1JL98ZpXA96Ypz5ieKE5Zpoy_AGCI0mllz_RMFOVC
 file:///C:/Users/Администратор/Desktop/рк/index.html
 wordpress - http://localhost/wordpress/
 Практика - https://drive.google.com/drive/folders/1FSfEj8ez22yTjOjTPjYFrQvvjbbvbziH
+Papka Kod Budushego - https://drive.google.com/drive/folders/10_cClgGM4zomNPFE0l2VAWrSfnLn4u78?usp=sharing
 ____
 ## Заголовок 
 ~~Зачеркнутый текст~~
