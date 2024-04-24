@@ -5,8 +5,6 @@ body {
     width: 100%;
     height: 120px;
     background-color: #D9D9D9;
-    left: 0;
-    top: 0;
 }
 #logo {
     padding-top: 26px;
@@ -58,55 +56,61 @@ a {
     width: 250px;
     cursor: pointer;
 }
-.textcont {
-    background: url(images/baze.webp);
+.texttov {
     width: 100%;
-    height: 300px;
-    background-position: center;
-    font-size: 50px;
-    text-align: center;
+    font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    text-align: center;
+    margin-top: 30px;
 }
-.cont {
-    margin: auto;
-    width: 90%;
-    height: 850px;
+.info {
+    margin-left: 70px;
+    margin-top: 30px;
+    width: 50%;
+    height: 600px;
+    background-color: white;
+    border-radius: 35px;
+    float: left;
+}
+.imgt {
+    width: 40%;
+    height: 600px;
+    margin-left: 30px;
+    margin-top: 30px;
+    float: left;
     background-color: white;
     border-radius: 35px;
 }
-.gorod {
-    width: 96%;
-    height: 200px;
-    margin-top: 10px;
+.text2 {
+    font-size: 35px;
+    margin-top: 30px;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
 }
-.inf {
-    width: 55%;
-    height: 100px;
-    color: black;
-    float: right;
-    text-align: left;
-    font-size: 25px;
-    padding-top: 20px;
-}
-.vertical {
-    border-left: 2px solid black;
-    height: 150px;
-    float: left;
-    margin-top: 20px;
-}
-.t1 {
-    color: black;
-    text-align: left;
-    margin-top: 5px;
-    font-size: 30px;
-    padding-left: 60px;
-    padding-top: 20px;
-    width: 40%;
-    float: left;
+.text3 {
+    font-size: 35px;
+    margin-top: 40px;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
 }
 span {
     display: block;
-    line-height: 47px;
-    margin-left: 50px;
+}
+.button3 {
+background-color: greenyellow;
+    margin-left: 30px;
+    margin-top: 40px;
+    width: 250px;
+    height: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    border: 0px;
+    border-radius:  40px 40px 40px 40px;
+    cursor: pointer;
+}
+.imgt {
+    background: url(images/benzin.jpg);
+    background-position: center;
 }
