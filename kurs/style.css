@@ -78,6 +78,7 @@ a {
 }
 .img1 {
     float: right;
+    top: 0;
 }
 #buttons3 {
     float: left;
