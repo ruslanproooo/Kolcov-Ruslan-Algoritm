@@ -116,6 +116,7 @@ span {
     border: 0px;
     cursor: pointer;
     background-color: white;
+    font-size: 20px;
 }
 #button4 {
     width: 250px;
@@ -125,4 +126,87 @@ span {
     border: 0px;
     cursor: pointer;
     background-color: white;
+    font-size: 20px;
+}
+.zak {
+    margin: auto;
+    width: 85%;
+    height: 50px;
+    background-color: #9CF885;
+    border-radius: 100px;
+    margin-top: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-top: 15px;
+}
+.zaki {
+    width: 40%;
+    background-color: white;
+    height: 200px;
+    margin-left: 140px;
+    margin-top: 30px;
+    float: left;
+    border-radius: 10px;
+}
+.zaki2 {
+    width: 40%;
+    background-color: white;
+    height: 200px;
+    margin-right: 140px;
+    margin-top: 30px;
+    float: right;
+    border-radius: 10px;
+}
+.vertical {
+    border-left: 2px solid black;
+    height: 170px;
+    float: left;
+    margin-top: 13px;
+}
+.nazvan {
+    width: 35%;
+    height: 200px;
+    float: left;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t1 {
+    margin-left: 60px;
+    margin-top: 65px;
+}
+.infor {
+    width: 35%;
+    height: 200px;
+    float: left;
+}
+.t2 {
+    margin-left: 5px;
+}
+.t3 {
+    margin-left: 40px;
+    margin-top: 80px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cena {
+    width: 29%;
+    height: 200px;
+    float: left;
+}
+p {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+#ft {
+    margin-top: 65px;
+    margin-left: 75px;
+}
+
+.nn {
+    height: 300px;
+    width: 100%;
+    background-color: #333;
 }
