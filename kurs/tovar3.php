@@ -36,8 +36,67 @@
             Мото́рные масла́, нефтяные и синтетические масла или их смеси с различными присадками. Они используются для смазывания двигателей внутреннего сгорания.
         </div>
         <div class="text3">
-            <span><b>Осталось на складе:</b> 40т</span>
-            <span><b>Цена за тонну:</b> 470000р</span>
+            <span><b>Осталось на складе:</b> <?php
+            // Подключение к базе данных
+            $servername = "localhost";
+            $username = "root";
+            $password = "";
+            $dbname = "oil";
+
+            $conn = new mysqli($servername, $username, $password, $dbname);
+
+            // Проверка соединения
+            if ($conn->connect_error) {
+                die("Connection failed: " . $conn->connect_error);
+            }
+
+            // Выбор данных из таблицы "учет автотранспорта"
+            $sql = "SELECT * FROM `nazvanie & kolichestvo nefteprodukta` where Naimenovanie = 'Моторное масло'";
+            $result = $conn->query($sql);
+
+            if ($result->num_rows > 0) {
+                // Вывод данных каждой строки
+                while($row = $result->fetch_assoc()) {
+                    echo "<tr>";
+                    echo "<td>".$row['Kolichestvo']."</td>";
+                    
+                    echo "</tr>";
+                }
+            } else {
+                echo "0 результатов";
+            }
+            $conn->close();
+        ?>т</span>
+            <span><b>Цена за тонну:</b> <?php
+            // Подключение к базе данных
+            $servername = "localhost";
+            $username = "root";
+            $password = "";
+            $dbname = "oil";
+
+            $conn = new mysqli($servername, $username, $password, $dbname);
+
+            // Проверка соединения
+            if ($conn->connect_error) {
+                die("Connection failed: " . $conn->connect_error);
+            }
+
+            // Выбор данных из таблицы "учет автотранспорта"
+            $sql = "SELECT * FROM `nazvanie & kolichestvo nefteprodukta` where Naimenovanie = 'Моторное масло'";
+            $result = $conn->query($sql);
+
+            if ($result->num_rows > 0) {
+                // Вывод данных каждой строки
+                while($row = $result->fetch_assoc()) {
+                    echo "<tr>";
+                    echo "<td>".$row['Cena za shtuku']."</td>";
+                    echo "</tr>";
+                }
+            } else {
+                echo "0 результатов";
+            }
+            $conn->close();
+        ?>р</span>
         </div>
         <button type="button" class="button3">
             Купить

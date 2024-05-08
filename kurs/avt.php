@@ -20,7 +20,7 @@
         <div id="input">
             <input type="text" id="name" name="Password" placeholder="Пароль"/>
         </div>
-            <button type="submit" class="button">
+            <button type="submit"  onclick="location.href='Profil.php'" class="button">
                 Войти
             </button>
             <div id="t2">
