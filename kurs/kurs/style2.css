@@ -1,0 +1,115 @@
+body {
+    background-color: #D9D9D9;
+    width: 1850px;
+    height: 1080px;
+    margin: auto;
+}
+.header {
+    width: 100%;
+    height: 120px;
+    background-color: #D9D9D9;
+    left: 0;
+    top: 0;
+}
+#logo {
+    padding-top: 26px;
+    padding-left: 5%;
+    float: left;
+}
+#text {
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding-top: 10px;
+    margin-left: -50px;
+}
+#nav {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 47px;
+    float: left;
+    margin-left: 240px;
+}
+a {
+    margin: 0 50px;
+    text-decoration: none;
+    color: black;
+}
+#buttons {
+    float: left;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+#button {
+    background-color: #ADA6A6;
+    border-radius: 27px;
+    width: 120px;
+    height: 60px;
+    font-size: 20px;
+    cursor: pointer;
+}
+#buttons2 {
+    float: left;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+#button2 {
+    background-color: #ADA6A6;
+    border-radius: 27px;
+    height: 60px;
+    font-size: 20px;
+    width: 250px;
+    cursor: pointer;
+}
+.textcont {
+    background: url(images/baze.webp);
+    width: 100%;
+    height: 300px;
+    background-position: center;
+    font-size: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.cont {
+    margin: auto;
+    width: 90%;
+    height: 850px;
+    background-color: white;
+    border-radius: 35px;
+}
+.gorod {
+    width: 96%;
+    height: 200px;
+    margin-top: 10px;
+}
+.inf {
+    width: 55%;
+    height: 100px;
+    color: black;
+    float: right;
+    text-align: left;
+    font-size: 25px;
+    padding-top: 20px;
+}
+.vertical {
+    border-left: 2px solid black;
+    height: 150px;
+    float: left;
+    margin-top: 20px;
+}
+.t1 {
+    color: black;
+    text-align: left;
+    margin-top: 5px;
+    font-size: 30px;
+    padding-left: 60px;
+    padding-top: 20px;
+    width: 40%;
+    float: left;
+}
+span {
+    display: block;
+    line-height: 47px;
+    margin-left: 50px;
+}

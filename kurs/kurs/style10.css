@@ -1,0 +1,215 @@
+body {
+    background-color: #D9D9D9;
+    width: 1850px;
+    height: 1080px;
+    margin: auto;
+}
+.header {
+    width: 100%;
+    height: 120px;
+    background-color: #D9D9D9;
+}
+#logo {
+    padding-top: 26px;
+    padding-left: 5%;
+    float: left;
+}
+#text {
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding-top: 10px;
+    margin-left: -50px;
+}
+#nav {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 47px;
+    float: left;
+    margin-left: 240px;
+}
+a {
+    margin: 0 50px;
+    text-decoration: none;
+    color: black;
+}
+#buttons {
+    float: left;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+#button {
+    background-color: #ADA6A6;
+    border-radius: 27px;
+    width: 120px;
+    height: 60px;
+    font-size: 20px;
+    cursor: pointer;
+}
+#buttons2 {
+    float: left;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+#button2 {
+    background-color: #ADA6A6;
+    border-radius: 27px;
+    height: 60px;
+    font-size: 20px;
+    width: 250px;
+    cursor: pointer;
+}
+.textl {
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
+.infm {
+    margin: auto;
+    width: 90%;
+    height: 300px;
+    margin-top: 20px;
+}
+.ava {
+    width: 20%;
+    height: 270px;
+    padding-top: 30px;
+    float: left;
+}
+.foto {
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    border-radius: 200px;
+    margin-left: 40px;
+}
+span {
+    display: block;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 60px;
+}
+.fam {
+    float: left;
+    margin-left: 30px;
+    width: 50%;
+    height: 270px;
+    margin-top: 20px;
+}
+#s2 {
+    display: block;
+    font-size: 25px;
+}
+#s1 {
+    font-size: 40px;
+}
+.buttons2 {
+    width: 10%;
+    float: right;
+    height: 270px;
+    margin-right: 200px;
+    margin-top: 30px;
+}
+#button3 {
+    width: 300px;
+    height: 60px;
+    border-radius: 50px;
+    border: 0px;
+    cursor: pointer;
+    background-color: white;
+    font-size: 20px;
+}
+#button4 {
+    width: 250px;
+    height: 60px;
+    border-radius: 50px;
+    margin-top: 20px;
+    border: 0px;
+    cursor: pointer;
+    background-color: white;
+    font-size: 20px;
+}
+.zak {
+    margin: auto;
+    width: 85%;
+    height: 50px;
+    background-color: #9CF885;
+    border-radius: 100px;
+    margin-top: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-top: 15px;
+}
+.zaki {
+    width: 40%;
+    background-color: white;
+    height: 200px;
+    margin-left: 140px;
+    margin-top: 30px;
+    float: left;
+    border-radius: 10px;
+}
+.zaki2 {
+    width: 40%;
+    background-color: white;
+    height: 200px;
+    margin-right: 140px;
+    margin-top: 30px;
+    float: right;
+    border-radius: 10px;
+}
+.vertical {
+    border-left: 2px solid black;
+    height: 170px;
+    float: left;
+    margin-top: 13px;
+}
+.nazvan {
+    width: 35%;
+    height: 200px;
+    float: left;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t1 {
+    margin-left: 60px;
+    margin-top: 65px;
+}
+.infor {
+    width: 35%;
+    height: 200px;
+    float: left;
+}
+.t2 {
+    margin-left: 5px;
+}
+.t3 {
+    margin-left: 40px;
+    margin-top: 80px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cena {
+    width: 29%;
+    height: 200px;
+    float: left;
+}
+p {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+#ft {
+    margin-top: 65px;
+    margin-left: 75px;
+}
+
+.nn {
+    height: 300px;
+    width: 100%;
+    background-color: #333;
+}

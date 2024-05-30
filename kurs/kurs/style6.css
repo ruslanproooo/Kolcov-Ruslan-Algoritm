@@ -1,0 +1,119 @@
+body {
+    background-color: #D9D9D9;
+    width: 1850px;
+    height: 1080px;
+    margin: auto;
+}
+.header {
+    width: 100%;
+    height: 120px;
+    background-color: #D9D9D9;
+}
+#logo {
+    padding-top: 26px;
+    padding-left: 5%;
+    float: left;
+}
+#text {
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding-top: 10px;
+    margin-left: -50px;
+}
+#nav {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 47px;
+    float: left;
+    margin-left: 240px;
+}
+a {
+    margin: 0 50px;
+    text-decoration: none;
+    color: black;
+}
+#buttons {
+    float: left;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+#button {
+    background-color: #ADA6A6;
+    border-radius: 27px;
+    width: 120px;
+    height: 60px;
+    font-size: 20px;
+    cursor: pointer;
+}
+#buttons2 {
+    float: left;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+#button2 {
+    background-color: #ADA6A6;
+    border-radius: 27px;
+    height: 60px;
+    font-size: 20px;
+    width: 250px;
+    cursor: pointer;
+}
+.texttov {
+    width: 100%;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+}
+.info {
+    margin-left: 70px;
+    margin-top: 30px;
+    width: 50%;
+    height: 600px;
+    background-color: white;
+    border-radius: 35px;
+    float: left;
+}
+.imgt {
+    width: 40%;
+    height: 600px;
+    margin-left: 30px;
+    margin-top: 30px;
+    float: left;
+    background-color: white;
+    border-radius: 35px;
+}
+.text2 {
+    font-size: 35px;
+    margin-top: 30px;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+}
+.text3 {
+    font-size: 35px;
+    margin-top: 40px;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+}
+span {
+    display: block;
+}
+.button3 {
+background-color: greenyellow;
+    margin-left: 30px;
+    margin-top: 40px;
+    width: 250px;
+    height: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    border: 0px;
+    border-radius:  40px 40px 40px 40px;
+    cursor: pointer;
+}
+.imgt {
+    background: url(images/dizel.jpeg);
+    background-position: center;
+}
